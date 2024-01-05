@@ -11,6 +11,9 @@ const WelcomePage = () => {
         <Link to="/register" className="font-semibold underline text-cyan-600 transition ease-in-out delay-200 hover:text-cyan-700">
           Register
         </Link>
+        <Link to="/products" className="font-semibold underline text-cyan-600 transition ease-in-out delay-200 hover:text-cyan-700">
+          Products
+        </Link>
       </div>
     </div>
   );
